@@ -1,16 +1,9 @@
 # Restaurant Landing Page
-### [Live Site](https://gericht-restaurant.com/)
+Using React.
 
-![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
+https://user-images.githubusercontent.com/55133073/215844096-4e65bfe6-ef3e-4ef8-911d-e87a1c6b5a1e.mp4
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
-
-## Introduction
-This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
-
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
-
+## Features
 - React Functional components and their reusability
 - React file and folder structure
 - Fundamental CSS properties to master flex & grid
