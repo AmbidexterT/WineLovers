@@ -1,7 +1,8 @@
 # Winery Landing Page
 Using React.
 
-https://user-images.githubusercontent.com/55133073/215844096-4e65bfe6-ef3e-4ef8-911d-e87a1c6b5a1e.mp4
+[Live Video](https://github.com/AmbidexterT/WineLovers/assets/55133073/b37dfdf8-1b2a-45fe-a3db-cfdc12a1aab2)
+
 
 ## Features
 - React Functional components and their reusability
