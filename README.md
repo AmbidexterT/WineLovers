@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+# Winery Landing Page
 Using React.
 
 https://user-images.githubusercontent.com/55133073/215844096-4e65bfe6-ef3e-4ef8-911d-e87a1c6b5a1e.mp4
