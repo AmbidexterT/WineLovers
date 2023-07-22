@@ -3,7 +3,8 @@ Using React.
 
 Enjoy!
 
-[Winery Intro](..%2F..%2FDownloads%2F13.07.2023_09.55.25_REC%20%282%29.mp4)
+[Winery Intro](https://github.com/AmbidexterT/WineLovers/assets/55133073/5e9031f1-9c82-4d1f-827c-9931bd4b142d)
+
 
 ## Features
 - React Functional components and their reusability
